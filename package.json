@@ -1,0 +1,25 @@
+{
+  "name": "aws-s3-lambda-process-image",
+  "version": "1.0.0",
+  "description": "This code is for the AWS s3 Lambda lab.",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.2",
+    "gm": "^1.23.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icruzr93/aws-s3-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icruzr93/aws-s3-lambda/issues"
+  },
+  "homepage": "https://github.com/icruzr93/aws-s3-lambda#readme"
+}
